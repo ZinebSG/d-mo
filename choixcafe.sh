@@ -5,6 +5,7 @@ while true; do
   echo "1. Café"
   echo "2. Thé"
   echo "3. Chocolat"
+  echo "4. juce"
   echo "x. Sortir"
 
   read -p "Votre choix : " choix
